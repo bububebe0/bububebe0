@@ -27,6 +27,12 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/-🐾%20meow%20🐾-6C63FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/-🐱%20pure%20simplicity-6C63FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/-⚞^. .^⚟-6C63FF?style=flat-square" />
+</p>
+
 <br />
 
 <p align="center">
