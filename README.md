@@ -28,9 +28,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-🐾%20meow%20🐾-6C63FF?style=flat-square" />
-  <img src="https://img.shields.io/badge/-🐱%20pure%20simplicity-6C63FF?style=flat-square" />
-  <img src="https://img.shields.io/badge/-⚞^. .^⚟-6C63FF?style=flat-square" />
+  <img src="https://media.tenor.com/HAU_nZjbw9gAAAAi/cat-dance.gif" width="100" />
+  <br />
+  <i>🐾 purrfect code, one paw at a time 🐾</i>
 </p>
 
 <br />
