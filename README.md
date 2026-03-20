@@ -27,11 +27,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://media.tenor.com/HAU_nZjbw9gAAAAi/cat-dance.gif" width="100" />
-  <br />
-  <i>🐾 purrfect code, one paw at a time 🐾</i>
-</p>
 
 <br />
 
