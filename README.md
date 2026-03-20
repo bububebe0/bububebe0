@@ -30,9 +30,6 @@
 
 <br />
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="wave" width="100%" />
-</p>
 
 <p align="center">
   <i>“In a world full of noise, be a cat — calm, curious, and comfortable in your own space.”</i>
