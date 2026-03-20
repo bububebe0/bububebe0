@@ -10,8 +10,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/-🐾%20🐾-000000?style=flat-square&logo=cat&logoColor=white&color=6C63FF" />
-  <img src="https://img.shields.io/badge/-minimalist-000000?style=flat-square&logo=simple&logoColor=white&color=6C63FF" />
-  <img src="https://img.shields.io/badge/-curious-000000?style=flat-square&logo=question&logoColor=white&color=6C63FF" />
+  <img src="https://img.shields.io/badge/-⚞^. .^⚟-000000?style=flat-square&logo=simple&logoColor=white&color=6C63FF" />
+  <img src="https://img.shields.io/badge/-🐾🐾-000000?style=flat-square&logo=question&logoColor=white&color=6C63FF" />
 </p>
 
 <br />
