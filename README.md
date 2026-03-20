@@ -6,9 +6,6 @@
   <img src="https://media.tenor.com/HAU_nZjbw9gAAAAi/cat-dance.gif" width="120" alt="cat animation" />
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,py,go,rust,html,css,git,docker&theme=dark&perline=5" />
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-🐾%20🐾-000000?style=flat-square&logo=cat&logoColor=white&color=6C63FF" />
