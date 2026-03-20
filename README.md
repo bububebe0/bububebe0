@@ -30,11 +30,6 @@
 
 <br />
 
-
-<p align="center">
-  <i>“In a world full of noise, be a cat — calm, curious, and comfortable in your own space.”</i>
-</p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bububebe0&label=visitors&color=6C63FF&style=flat-square" alt="visitor badge" />
 </p>
