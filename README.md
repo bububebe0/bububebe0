@@ -27,11 +27,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-🐾%20npm%20purr-6C63FF?style=flat-square&logo=npm&logoColor=white" />
-  <img src="https://img.shields.io/badge/-🐱%20yarn%20meow-6C63FF?style=flat-square&logo=yarn&logoColor=white" />
-  <img src="https://img.shields.io/badge/-⚞^. .^⚟%20docker%20purr-6C63FF?style=flat-square&logo=docker&logoColor=white" />
-</p>
 
 <br />
 
