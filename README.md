@@ -7,25 +7,7 @@
 </p>
 
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-🐾%20🐾-000000?style=flat-square&logo=cat&logoColor=white&color=6C63FF" />
-  <img src="https://img.shields.io/badge/-⚞^. .^⚟-000000?style=flat-square&logo=simple&logoColor=white&color=6C63FF" />
-  <img src="https://img.shields.io/badge/-🐾🐾-000000?style=flat-square&logo=question&logoColor=white&color=6C63FF" />
-</p>
-
 <br />
-
-<p align="center">
-  <a href="https://github.com/bububebe0">
-    <img src="https://github-readme-stats.vercel.app/api?username=bububebe0&show_icons=true&theme=transparent&hide_border=true&title_color=6C63FF&icon_color=6C63FF&text_color=ffffff&bg_color=0D1117" width="450" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/bububebe0">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bububebe0&layout=compact&theme=transparent&hide_border=true&title_color=6C63FF&text_color=ffffff&bg_color=0D1117" width="350" />
-  </a>
-</p>
 
 
 <br />
