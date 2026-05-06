@@ -1,9 +1,7 @@
 <div align="center">
 
-<!-- Typing animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=hey+there+%F0%9F%91%8B;i+write+code...;...and+pet+cats.;welcome+to+my+corner." alt="Typing SVG" />
 
-<!-- Cat -->
 <img src="https://media.tenor.com/HAU_nZjbw9gAAAAi/cat-dance.gif" width="130" alt="dancing cat" />
 
 </div>
