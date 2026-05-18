@@ -20,7 +20,7 @@
 
 <div align="center">
 
-## 📊 github stats
+##  github stats
 
 <br/>
 
