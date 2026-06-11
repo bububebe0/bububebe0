@@ -12,7 +12,7 @@
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=cs,python,js&theme=dark" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=cs,js&theme=dark" alt="Tech Stack" />
 
 </div>
 
